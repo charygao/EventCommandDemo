@@ -1,0 +1,33 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\bin\Debug\EventCommandDemo.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\obj\Debug\App.g.cs
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo_MarkupCompile.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo_MarkupCompile.lref
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\bin\Debug\EventCommandDemo.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\bin\Debug\EventCommandDemo.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\bin\Debug\ManMonthMyth.Practices.Composite.Presentation.Behaviors.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo.g.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\手机开发练习\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo.pdb
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\bin\Debug\ManMonthMyth.Practices.Composite.Presentation.Behaviors.dll
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\bin\Debug\EventCommandDemo.exe.config
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\bin\Debug\EventCommandDemo.exe
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\bin\Debug\EventCommandDemo.pdb
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo.csprojResolveAssemblyReference.cache
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\obj\Debug\MainWindow.g.cs
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\obj\Debug\App.g.cs
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo_MarkupCompile.cache
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo_MarkupCompile.lref
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\obj\Debug\MainWindow.baml
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo.g.resources
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo.Properties.Resources.resources
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo.csproj.GenerateResource.Cache
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo.csproj.CoreCompileInputs.cache
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo.exe
+D:\Program Files\HK\Desktop\EventCommandDemo\EventCommandDemo\EventCommandDemo\obj\Debug\EventCommandDemo.pdb
